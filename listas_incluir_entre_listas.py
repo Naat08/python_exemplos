@@ -3,4 +3,3 @@ listaB = [4, 5, 6]
 
 listaA.extend(listaB)
 print(listaA)
-print(listaB)
